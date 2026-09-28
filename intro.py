@@ -1,0 +1,2 @@
+print(f"Murad Bəşirli, 15th of September 2026, I want to learn python so I can write my own tools regarding my major, Information Security")
+#Python is interpreted language, because Interpreter reads the code line by line and converts it to bytecode
